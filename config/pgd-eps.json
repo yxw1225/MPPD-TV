@@ -1,0 +1,13 @@
+[
+    {"attack": "clean"},
+    {"attack": "pgd", "eps": 10, "alpha": 2.5, "steps":10},
+    {"attack": "pgd", "eps": 20, "alpha": 5, "steps":10},
+    {"attack": "pgd", "eps": 30, "alpha": 7.5, "steps":10},
+    {"attack": "pgd", "eps": 40, "alpha": 10, "steps":10},
+    {"attack": "pgd", "eps": 50, "alpha": 12.5, "steps":10},
+    {"attack": "pgd", "eps": 60, "alpha": 15, "steps":10},
+    {"attack": "pgd", "eps": 70, "alpha": 17.5, "steps":10},
+    {"attack": "pgd", "eps": 80, "alpha": 20, "steps":10},
+    {"attack": "pgd", "eps": 90, "alpha": 22.5, "steps":10},
+    {"attack": "pgd", "eps": 100, "alpha": 15, "steps":10}
+]
